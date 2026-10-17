@@ -23,3 +23,7 @@ This project analyses flood losses in Malaysia from 2021 to 2025 using Power BI.
 - Data Visualisation
 - Dashboard Development
 - Business Intelligence
+
+## Dashboard
+
+![Dashboard]()
