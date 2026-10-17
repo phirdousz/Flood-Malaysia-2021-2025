@@ -3,7 +3,16 @@
 ## Project Overview
 
 This project analyses flood losses in Malaysia from 2021 to 2025 using Power BI. 
-(Data source: DOSM)
+
+## Data Source
+Department of Statistics Malaysia
+
+|Year||Link|
+|2025|| [2025](https://open.dosm.gov.my/publications/flood_impact_2025) |
+|2024|| [2024](https://open.dosm.gov.my/publications/flood_impact_2024) |
+|2023|| [2023](https://open.dosm.gov.my/publications/flood_impact_2023) |
+|2022|| [2022](https://open.dosm.gov.my/publications/flood_impact_2022) |
+|2021|| [2021](https://open.dosm.gov.my/publications/flood_impact_2021) |
 
 ## Tools Used
 
